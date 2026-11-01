@@ -7,6 +7,9 @@ derivatives/
 # Any NIfTI image elsewhere in the repo
 *.nii
 *.nii.gz
+!atlases/
+!atlases/*.nii.gz
+
 
 # Created figures
 figures/
